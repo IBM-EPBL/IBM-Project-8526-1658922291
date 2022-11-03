@@ -5,4 +5,4 @@
 ## This is Login Page Page
 ![plot](./Project-Screenshot/login-page.png)
 ## This is Resgister Page
-![plot](./Project-Screenshot/register.png)
+![plot](./Project-Screenshot/register-page.png)
