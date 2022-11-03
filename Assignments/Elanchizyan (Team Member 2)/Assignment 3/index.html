@@ -1,0 +1,180 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Assignment - 3</title>
+  <link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.8.1/css/all.min.css">
+  <link rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css?family=Montserrat&amp;display=swap"rel="stylesheet">
+  <link rel="stylesheet" href="style.css" />
+</head>
+
+<body>
+  
+<div class="app">
+  <div class="cardList">
+    <button class="cardList__btn btn btn--left">
+      <div class="icon">
+        <svg>
+          <use xlink:href="#arrow-left"></use>
+        </svg>
+      </div>
+    </button>
+
+    <div class="cards__wrapper">
+      <div class="card current--card">
+        <div class="card__image">
+          <img src="./car-images/image-1.jpg" alt="" />
+        </div>
+      </div>
+
+      <div class="card next--card">
+        <div class="card__image">
+          <img src="./car-images/image-2.jpg" alt="" />
+        </div>
+      </div>
+
+      <div class="card next--card--1">
+        <div class="card__image">
+          <img src="./car-images/image-4.jpg" alt="" />
+        </div>
+      </div>
+
+      <div class="card previous--card">
+        <div class="card__image">
+          <img src="./car-images/image-3.jpg" alt="" />
+        </div>
+      </div>
+
+      <div class="card previous--card--1">
+        <div class="card__image">
+          <img src="./car-images/image-5.jpg" alt="" />
+        </div>
+      </div>
+
+    </div>
+
+    <button class="cardList__btn btn btn--right">
+      <div class="icon">
+        <svg>
+          <use xlink:href="#arrow-right"></use>
+        </svg>
+      </div>
+    </button>
+  </div>
+
+  <div class="infoList">
+    <div class="info__wrapper">
+      <div class="info current--info">
+        <h1 class="text name">ROLLS ROYCE</h1>
+        <h4 class="text location">PHANTHOM</h4>
+        <p class="text description">INSPIRING GREATNESS</p>
+      </div>
+
+      <div class="info next--info">
+        <h1 class="text name">REVEAL YOUR VISION</h1>
+        <h4 class="text location">BESPOKE</h4>
+        <p class="text description">BE SHAPED BY FORM</p>
+      </div>
+
+      <div class="info next--info--1">
+        <h1 class="text name">UNEARTH</h1>
+        <h4 class="text location">FLUIDS</h4>
+        <p class="text description">BE MOVED BY MOTION</p>
+      </div>
+
+      <div class="info previous--info">
+        <h1 class="text name">SPIRIT OF ESTACY</h1>
+        <h4 class="text location">PRIDE</h4>
+        <p class="text description">THE ULTIMATE EXPIRIENCE</p>
+      </div>
+
+      <div class="info previous--info--1">
+        <h1 class="text name">ENVISAGE CONCEPT</h1>
+        <h4 class="text location">LUXURY</h4>
+        <p class="text description">HARNESS MATERIALS</p>
+      </div>
+    </div>
+  </div>
+
+
+  <div class="app__bg">
+    <div class="app__bg__image current--image">
+      <img src="https://source.unsplash.com/Z8dtTatMVMw" alt="" />
+    </div>
+    <div class="app__bg__image next--image">
+      <img src="https://source.unsplash.com/9dmycbFE7mQ" alt="" />
+    </div>
+    <div class="app__bg__image next--image--1">
+      <img src="https://source.unsplash.com/9wg5jCEPBsw" alt="" />
+    </div>
+    <div class="app__bg__image previous--image">
+      <img src="https://source.unsplash.com/m7K4KzL5aQ8" alt="" />
+    </div>
+    <div class="app__bg__image previous--image--1">
+      <img src="https://source.unsplash.com/2Hzmz15wGik" alt="" />
+    </div>
+  </div>
+</div>
+
+<div class="loading__wrapper">
+  <div class="loader--text">Loading...</div>
+  <div class="loader">
+    <span></span>
+  </div>
+</div>
+
+
+<svg class="icons" style="display: none;">
+  <symbol id="arrow-left" xmlns='http://www.w3.org/2000/svg' viewBox='0 0 512 512'>
+    <polyline points='328 112 184 256 328 400'
+           style='fill:none;stroke:#fff;stroke-linecap:round;stroke-linejoin:round;stroke-width:48px' />
+  </symbol>
+  <symbol id="arrow-right" xmlns='http://www.w3.org/2000/svg' viewBox='0 0 512 512'>
+    <polyline points='184 112 328 256 184 400'
+           style='fill:none;stroke:#fff;stroke-linecap:round;stroke-linejoin:round;stroke-width:48px' />
+  </symbol>
+</svg>
+
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/normalize/5.0.0/normalize.min.css">
+
+   
+<link rel='stylesheet prefetch' href='https://cdnjs.cloudflare.com/ajax/libs/malihu-custom-scrollbar-plugin/3.1.3/jquery.mCustomScrollbar.min.css'>
+
+      <link rel="stylesheet" href="css/style.css">
+
+  
+ 
+	
+
+
+
+<div class="bg"></div>
+  <script src='http://cdnjs.cloudflare.com/ajax/libs/jquery/2.1.3/jquery.min.js'></script>
+<script src='https://cdnjs.cloudflare.com/ajax/libs/malihu-custom-scrollbar-plugin/3.1.3/jquery.mCustomScrollbar.concat.min.js'></script>
+
+<script>
+  window.watsonAssistantChatOptions = {
+    integrationID: "d764d9e0-d63e-4d5b-9226-d5de099f6974", // The ID of this integration.
+    region: "au-syd", // The region your integration is hosted in.
+    serviceInstanceID: "7ed43b48-f61c-4695-9de8-972d443ab961", // The ID of your service instance.
+    onLoad: function(instance) { instance.render(); }
+  };
+  setTimeout(function(){
+    const t=document.createElement('script');
+    t.src="https://web-chat.global.assistant.watson.appdomain.cloud/versions/" + (window.watsonAssistantChatOptions.clientVersion || 'latest') + "/WatsonAssistantChatEntry.js";
+    document.head.appendChild(t);
+  });
+</script>   
+
+<!-- <div class="Credits">
+    <h2 class="Firm">Designed by: Qbit Desings</h2>
+    <h3 class="Author">Author: Pk Mallia</h3>
+</div> -->
+
+<script type="text/javascript" src="https://unpkg.com/imagesloaded@4/imagesloaded.pkgd.min.js"></script>
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/gsap/3.3.3/gsap.min.js"></script>
+<script type="text/javascript" src="script.js"></script>
+</body>
+</html>
