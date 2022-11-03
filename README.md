@@ -21,9 +21,5 @@ PNT2022TMID22121
 3. Elanchizyan 
 4. Harish Kumar s
 
-## 🔗 Links
-[Assignments](doc:Assignments!anchor-Links)
 
-
-['Project Design and Planning'](doc:'Project Desdigns & planning'!anchor-Links)
 
