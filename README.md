@@ -28,7 +28,7 @@
 
 ## Skills Required:
 IBM Cloud,HTML,Javascript,IBM Cloud Object Storage,Python-Flask,Kubernetes,Docker,IBM DB2,IBM Container Registry
-   </div>
+   
  
   <p align="center">
 <a href="https://www.ibm.com/in-en">
@@ -79,6 +79,7 @@ IBM Cloud,HTML,Javascript,IBM Cloud Object Storage,Python-Flask,Kubernetes,Docke
 
 
 <br>
+ </div>
 <div>
  <h2>
   <picture>
