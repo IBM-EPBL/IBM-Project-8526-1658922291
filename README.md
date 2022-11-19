@@ -679,11 +679,6 @@ outputs = tflite_model(inputs)
 <a href="https://imgur.com/PntAMKK"><img width=175 height=250 src="https://i.imgur.com/PntAMKK.png" title="source: imgur.com" /></a>
 <a href="https://imgur.com/FFofHKn"><img width=175 height=250 src="https://i.imgur.com/FFofHKn.png" title="source: imgur.com" /></a>
 </p>
-
-<iframe width="560" height="315" align="center" src="
-https://www.youtube.com/embed/YlWKfkpZ9h0
-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-  
   
 ## Further Imporvements & Future Work 
 
