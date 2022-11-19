@@ -117,6 +117,8 @@ IBM Cloud,HTML,Javascript,IBM Cloud Object Storage,Python-Flask,Kubernetes,Docke
 </picture> in India | Jvs Industries </h5>
 
  </div>
+ 
+ <img align="center" src="https://github.com/mayankchaudhary26/Cool-Readme-ideas/blob/master/data/phone-on.gif" />
 
 ## ✨ Start the app in Docker
 
