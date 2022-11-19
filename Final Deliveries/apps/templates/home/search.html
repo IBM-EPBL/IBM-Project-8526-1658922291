@@ -1,0 +1,21 @@
+{% extends.index.html %}
+
+{% for sitems in sproduct %}
+
+<section class="my-5 py-5">
+  <div class="container">
+    <div class="row align-items-center">
+      <div class="col-lg-4 ms-auto me-auto p-lg-4 mt-lg-0 mt-4">
+        <div class="card card-background " data-tilt>
+          <div class="full-background" style="background-image: url('{{product[sitems].image_url}}')"></div>
+          <div class="card-body pt-4 text-center">
+            <h2 class="text-white up mb-0">{{product[sitems].type}} <br /> {{product[sitems].description}}</h2>
+            <a href="/elements-buttons.html" class="btn btn-outline-white mt-5 up btn-round">Buy</a>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+{% endfor%}
