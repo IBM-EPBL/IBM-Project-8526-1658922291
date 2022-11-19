@@ -7,10 +7,10 @@
 
 ## TEAM MEMBERS
 
-1. Jogesh Mallaya P
-2. Jishnu s
-3. Elanchizyan 
-4. Harish Kumar s
+<h3> Jogesh Mallaya P </h3>
+<h3> Jishnu s </h3>
+<h3> Elanchizyan </h3> 
+<h3> Harish Kumar s </h3>
 
 ## Youtube Link
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/1GgHZg2ZyJ8/0.jpg)](https://www.youtube.com/watch?v=1GgHZg2ZyJ8)
