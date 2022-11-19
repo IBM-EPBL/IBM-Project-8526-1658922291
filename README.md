@@ -5,20 +5,102 @@
  <h3>IBM-Project-8526-165892221</h3>  
 <h2> Batch-B2-2M4E</h2>
 
-## TEAM MEMBERS
-
+ <h2><picture>
+  <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f31f/512.webp" type="image/webp">
+  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f31f/512.gif" alt="🌟" width="32" height="32">
+</picture> TEAM MEMBERSh2></div>
 <h3> Jogesh Mallaya P </h3>
 <h3> Jishnu s </h3>
 <h3> Elanchizyan </h3> 
 <h3> Harish Kumar s </h3>
+ <br>
+ 
 
-## Youtube Link
+<h2><picture>
+  <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f331/512.webp" type="image/webp">
+  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f331/512.gif" alt="🌱" width="32" height="32">
+</picture>Youtube Link</h2><i>
+
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/1GgHZg2ZyJ8/0.jpg)](https://www.youtube.com/watch?v=1GgHZg2ZyJ8)
 
 ## Skills Required:
 IBM Cloud,HTML,Javascript,IBM Cloud Object Storage,Python-Flask,Kubernetes,Docker,IBM DB2,IBM Container Registry
+ 
+  <p align="center">
+<a href="https://www.ibm.com/in-en">
+<img src="https://img.shields.io/badge/IBM-052FAD.svg?style=for-the-badge&logo=IBM&logoColor=white"> 
+</a>
+   <a href="https://www.python.org/g">
+    <img src="https://forthebadge.com/images/badges/made-with-python.svg" width =182 >
+  </a>
+
+  <a href="https://www.ibm.com/cloud">
+      <img src="https://img.shields.io/badge/IBM%20Watson-BE95FF.svg?style=for-the-badge&logo=IBM-Watson&logoColor=white" width=130>
+  </a>
+  <a href="https://opencv.org/">
+    <img src="https://img.shields.io/badge/OpenCV-5C3EE8.svg?style=for-the-badge&logo=OpenCV&logoColor=white">
+   </a>
+ 
+  <a href="https://pandas.pydata.org/">
+    <img src="https://img.shields.io/badge/pandas-150458.svg?style=for-the-badge&logo=pandas&logoColor=white">
+    </a>
+ 
+ <a href="https://keras.io/">
+    <img src="https://img.shields.io/badge/Keras-D00000.svg?style=for-the-badge&logo=Keras&logoColor=white">
+    </a>
+</p>
 
 </div>
+ 
+ <h2> <picture>
+  <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44d_1f3fd/512.webp" type="image/webp">
+  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44d_1f3fd/512.gif" alt="👍" width="32" height="32">
+</picture> Completed Tasks : </h2>
+  
+- [x] Brainstorm and Ideation <br>
+- [x] Problem Statement <br>
+- [x] Empathy Map <br>
+- [x] Assignment - 1 <br>
+- [x] Assignment - 2  <br>
+- [x] Assignment - 3  <br>
+- [x] Assignment - 4 <br>
+
+- [x] Proposed Solution <br>
+- [x] Proposed Solution fit <br>
+- [x] Solution Architecture <br>
+- [x] Data Flow Diagram <br>
+- [x] Solution Requirements <br>
+- [x] Technology Stack <br>
+- [x] Customer Journey Map <br>
+
+
+<br>
+ <h2>
+  <picture>
+  <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f64f_1f3fd/512.webp" type="image/webp">
+  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f64f_1f3fd/512.gif" alt="🙏" width="32" height="32">
+</picture> Contribution :</h2>
+
+
+
+![](https://svgur.com/i/nQ2.svg)
+ 
+ <!--🦶FOOTER--> 
+<img src="https://raw.githubusercontent.com/trinib/trinib/main/.images/footer.svg" width="100%">
+
+<!--⚽️ACTIVITY / 🌐WEBSITE: https://github.com/Readme-Workflows/recent-activity -->
+<!--RECENT_ACTIVITY:start-->
+<!--RECENT_ACTIVITY:end-->
+<!--RECENT_ACTIVITY:last_update-->
+
+<!--RECENT_ACTIVITY:last_update_end-->
+
+<div align="center">
+ <h5> Made with <picture>
+  <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/2764_fe0f/512.webp" type="image/webp">
+  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/2764_fe0f/512.gif" alt="❤" width="12" height="12">
+</picture> in India | Jvs Industries </h5>
+
 
 ## ✨ Start the app in Docker
 
