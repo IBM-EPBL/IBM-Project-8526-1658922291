@@ -53,6 +53,15 @@ IBM Cloud,HTML,Javascript,IBM Cloud Object Storage,Python-Flask,Kubernetes,Docke
     <img src="https://img.shields.io/badge/ajax-javascript-white">
     </a>
 </p>
+  <p align="center">
+  <img src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" width="100"><img src="https://i.giphy.com/media/LMt9638dO8dftAjtco/200.webp" width="100"><img src="https://i.giphy.com/media/eNAsjO55tPbgaor7ma/200w.webp" width="100"><img src="https://i.giphy.com/media/VgGthkhUvGgOit7Y9i/200.webp" width="100"><img src="https://media3.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.webp" width="100"><img src="https://i.giphy.com/media/KzJkzjggfGN5Py6nkT/200.webp" width="100"><img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="100">
+</p>
+<br>
+<br>  
+ 
+ <a href="https://instagram.com/pkmallia?igshid=YmMyMTA2M2Y=" target="_blank">
+    <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white&color=071A2C" alt="Instagram"/>
+  </a>
 
 </div>
  
@@ -790,6 +799,9 @@ This system can be considered as a POC (Proof of Concept) for image similarity b
 - [STL-Dataset](https://github.com/kang205/STL-Dataset)
 - [Keras Tutorial for image similarity calculation](https://keras.io/examples/vision/siamese_network/)
 
-
+<img align="center" src="https://github.com/mayankchaudhary26/Cool-Readme-ideas/blob/master/data/lamp shift.gif" />
+<br>  
+<br>
+<br>
 
 
