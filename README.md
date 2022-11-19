@@ -41,16 +41,16 @@ IBM Cloud,HTML,Javascript,IBM Cloud Object Storage,Python-Flask,Kubernetes,Docke
   <a href="https://www.ibm.com/cloud">
       <img src="https://img.shields.io/badge/IBM%20Watson-BE95FF.svg?style=for-the-badge&logo=IBM-Watson&logoColor=white" width=130>
   </a>
-  <a href="https://opencv.org/">
-    <img src="https://img.shields.io/badge/OpenCV-5C3EE8.svg?style=for-the-badge&logo=OpenCV&logoColor=white">
+  <a href="https://flask.palletsprojects.com/en/2.2.x/">
+    <img src="https://img.shields.io/badge/flask-python-brightgreen">
    </a>
  
-  <a href="https://pandas.pydata.org/">
-    <img src="https://img.shields.io/badge/pandas-150458.svg?style=for-the-badge&logo=pandas&logoColor=white">
+  <a href="https://www.docker.com/">
+    <img src="https://img.shields.io/badge/docker-container-blueviolet">
     </a>
  
- <a href="https://keras.io/">
-    <img src="https://img.shields.io/badge/Keras-D00000.svg?style=for-the-badge&logo=Keras&logoColor=white">
+ <a href="[https://keras.io/](https://developer.mozilla.org/en-US/docs/Web/Guide/AJAX)">
+    <img src="https://img.shields.io/badge/ajax-javascript-white">
     </a>
 </p>
 
