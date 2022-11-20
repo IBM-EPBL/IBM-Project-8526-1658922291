@@ -28,8 +28,8 @@
 <h2><picture>
   <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f331/512.webp" type="image/webp">
   <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f331/512.gif" alt="🌱" width="32" height="32">
-</picture>Youtube Link</h2>  <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f331/512.webp" type="image/webp">
-  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f331/512.gif" alt="🌱" width="32" height="32"><i>
+</picture>Youtube Link <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f331/512.webp" type="image/webp">
+  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f331/512.gif" alt="🌱" width="32" height="32"><i></h2>  
 
 
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/1GgHZg2ZyJ8/0.jpg)](https://www.youtube.com/watch?v=1GgHZg2ZyJ8)
