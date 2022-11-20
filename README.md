@@ -3,7 +3,7 @@
  <h1>A Smart Fashion Recommender that recommend products based on CKN Method</h1>
  <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f340/512.webp" type="image/webp">
   <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f340/512.gif" alt="🍀" width="32" height="32">
-  <h3>LIVE LINK(http://35.77.225.86:8080/login)</h3>
+  LIVE LINK(http://35.77.225.86:8080/login)
  <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f340/512.webp" type="image/webp">
   <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f340/512.gif" alt="🍀" width="32" height="32">
  <h2>TEAM ID PNT2022TMID22121</h2>
