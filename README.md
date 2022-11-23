@@ -1,6 +1,6 @@
 <div align="center">
 <img src="https://upload.wikimedia.org/wikipedia/commons/5/51/IBM_logo.svg"  align="center" alt="drawing" width="250" />
- <h1>A Smart Fashion Recommender that recommend products based on CKN Method</h1>
+ <h1>A Smart Fashion Recommender that recommend products based on CNN Method</h1>
  <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f340/512.webp" type="image/webp">
   <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f340/512.gif" alt="🍀" width="32" height="32">
   LIVE LINK: http://bit.ly/3TTx7Vh
